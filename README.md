@@ -19,8 +19,8 @@ Creation address: cosmos1knygypaqjav7q8wpu6lpqjfhdg3a5axzccmqm6
 
 **`Test transactions:`**
 *Namada (shielded-expedition.88f17d1d14) > Cosmos (theta-testnet-001)*
-
 https://extended-nebb.kintsugi.tech/player/tpknam1qzk6u8wh6qhqc7j9etxdlz9wqczyh2vsm44hgs6dphed3vp0uk2tvl8lcm5
+
 ![image](https://github.com/DmitriiRabeckii/ibc/assets/25347359/1bd5c352-7615-49e9-9b56-88e85c050b00)
 
 *Cosmos (theta-testnet-001) > Namada (shielded-expedition.88f17d1d14)*
